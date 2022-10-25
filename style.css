@@ -1,0 +1,42 @@
+.hero{
+    min-height: 60vh;
+    
+    background: linear-gradient(180deg, #C1C2C9 0%, rgba(193, 194, 201, 0.984499) 4.19%, rgba(193, 194, 201, 0.962418) 9.23%, rgba(193, 194, 201, 0.27) 14.06%);
+}
+
+.title{
+    text-align: center;
+    font-size: 2rem;
+    margin-top: 2rem;
+    background: rgba(193, 194, 201, 0.984499);
+  
+}
+
+/* .title div{
+    padding: 0 1rem;
+    border-bottom: 0.2rem solid yellowgreen;
+
+     */
+
+.icons{
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-between;
+    margin: 5rem;
+}
+.icons i{
+    font-size: 5rem;
+
+}
+.icons div{
+    display:flex;
+    flex-direction: column;
+    align-content: center;
+}
+.p2{
+    font-size: 1rem;
+   
+    font-style: italic;
+    font-weight: bold;
+}
+
